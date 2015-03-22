@@ -11,4 +11,5 @@ and unzipped to it.  I have written this on a windows system, if it makes any di
 2- The test packages is downloaded and labeled
 3- The train package is downloaded and labeled
 4- They are merged 
-5- The result file is exported
+5- They are grouped and summarized
+6- The result file is exported
